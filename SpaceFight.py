@@ -31,7 +31,7 @@ pygame.mixer.music.load("BackgroundMusic.mp3")
 
 LaserSound = pygame.mixer.Sound("LaserSound.mp3")
 ExplosionSound = pygame.mixer.Sound("ExplosionSound.mp3")
-IceCreamSound = pygame.mixer.Sound("IceCreamSound.mp3")
+#IceCreamSound = pygame.mixer.Sound("IceCreamSound.mp3")
 
 SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 500
